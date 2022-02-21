@@ -1,3 +1,3 @@
 # Demo 2
 
-Some text
+This demo was to practice making a repository localy first
